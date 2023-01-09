@@ -1,0 +1,1 @@
+inline int iAdd(int a, int b) { return a+b;}
